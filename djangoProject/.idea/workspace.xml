@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2e97ddd-6067-4524-bbd9-8874d378d8af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="725f2154-9360-4728-ba23-f4d9b65bfa94" />
+  <component name="ProjectId" id="1hwzsTzxztYoP1ufaXzEsOuKiqX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\ASUS\PycharmProjects\djangoProject\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="djangoProject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="djangoProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2e97ddd-6067-4524-bbd9-8874d378d8af" name="Default Changelist" comment="" />
+      <created>1600937167054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600937167054</updated>
+      <workItem from="1600937631488" duration="5767000" />
+      <workItem from="1600950166185" duration="45082000" />
+      <workItem from="1601007446501" duration="154000" />
+      <workItem from="1601027000676" duration="2375000" />
+      <workItem from="1601031363767" duration="1490000" />
+      <workItem from="1601032934419" duration="6253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Deployment" timestamp="1600995352451">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="275" y="25" key="#Deployment/0.0.1366.734@0.0.1366.734" timestamp="1600995352451" />
+    <state x="454" y="100" key="#HTTP_Proxy" timestamp="1600951947003">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="454" y="100" key="#HTTP_Proxy/0.0.1366.734@0.0.1366.734" timestamp="1600951947003" />
+    <state x="405" y="189" key="#Notifications" timestamp="1601078110656">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="405" y="189" key="#Notifications/0.0.1366.734@0.0.1366.734" timestamp="1601078110656" />
+    <state x="328" y="42" key="#Options" timestamp="1600995395170">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="328" y="42" key="#Options/0.0.1366.734@0.0.1366.734" timestamp="1600995395170" />
+    <state x="259" y="12" key="#SSH_Configurations" timestamp="1600995143088">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="259" y="12" key="#SSH_Configurations/0.0.1366.734@0.0.1366.734" timestamp="1600995143088" />
+    <state x="274" y="5" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601032662464">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="274" y="5" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.734@0.0.1366.734" timestamp="1601032662464" />
+    <state x="418" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600943500202">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="418" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.734@0.0.1366.734" timestamp="1600943500202" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1601082230319">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.734@0.0.1366.734" timestamp="1601082230319" />
+    <state x="541" y="264" width="283" height="281" key="Github.ShareDialog" timestamp="1601082744157">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="541" y="264" width="283" height="281" key="Github.ShareDialog/0.0.1366.734@0.0.1366.734" timestamp="1601082744157" />
+    <state x="433" y="80" key="Github.UntrackedFilesDialog" timestamp="1601003630236">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="433" y="80" key="Github.UntrackedFilesDialog/0.0.1366.734@0.0.1366.734" timestamp="1601003630236" />
+    <state width="1323" height="165" key="GridCell.Tab.0.bottom" timestamp="1600995439531">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.bottom/0.0.1366.734@0.0.1366.734" timestamp="1600995439531" />
+    <state width="1323" height="165" key="GridCell.Tab.0.center" timestamp="1600995439531">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.center/0.0.1366.734@0.0.1366.734" timestamp="1600995439531" />
+    <state width="1323" height="165" key="GridCell.Tab.0.left" timestamp="1600995439531">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.left/0.0.1366.734@0.0.1366.734" timestamp="1600995439531" />
+    <state width="1323" height="165" key="GridCell.Tab.0.right" timestamp="1600995439531">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.right/0.0.1366.734@0.0.1366.734" timestamp="1600995439531" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1600952783740">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.734@0.0.1366.734" timestamp="1600952783740" />
+    <state x="101" y="22" key="SettingsEditor" timestamp="1601082171365">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="101" y="22" key="SettingsEditor/0.0.1366.734@0.0.1366.734" timestamp="1601082171365" />
+    <state x="561" y="253" width="336" height="250" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1600990284263">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="561" y="253" width="336" height="250" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.734@0.0.1366.734" timestamp="1600990284263" />
+    <state x="263" y="21" key="com.intellij.database.dbimport.ImportDialog" timestamp="1600990548718">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="263" y="21" key="com.intellij.database.dbimport.ImportDialog/0.0.1366.734@0.0.1366.734" timestamp="1600990548718" />
+    <state x="539" y="104" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1600956696014">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="539" y="104" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.734@0.0.1366.734" timestamp="1600956696014" />
+    <state x="541" y="97" key="ftp.server.browser" timestamp="1600995348814">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="541" y="97" key="ftp.server.browser/0.0.1366.734@0.0.1366.734" timestamp="1600995348814" />
+    <state x="550" y="258" key="publish.login" timestamp="1600994804965">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="550" y="258" key="publish.login/0.0.1366.734@0.0.1366.734" timestamp="1600994804965" />
+  </component>
+</project>

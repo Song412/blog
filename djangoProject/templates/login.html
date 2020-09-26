@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<body>
+ <div class="tip" style="color: red;">
+                        {{ message }}
+ </div>
+<div class="login" style="padding-top: 20px;">
+            <h3>登录</h3>
+            <form action="{% url 'blog_get_detailv' %}"  method="post">
+                {% csrf_token %}
+                {% for field in form %}
+                    <div class="input-field" style="padding-top: 10px">
+                        {{ field.label }}: {{ field }}
+                    </div>
+
+
+                {% endfor %}
+                <button type="submit" style="margin-top: 10px">登录</button>
+            </form>
+        <a href="{% url 'blog_get_register' %}">注册</a>
+        </div>
+</body>
+</html>
